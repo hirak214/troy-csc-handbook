@@ -8,6 +8,7 @@ The TROY Housing CSC Handbook serves as a comprehensive resource for Community S
 The handbook is organized into sections that cover various aspects of the CSC role. Each section includes actionable steps, guidelines, and resources to assist CSCs in their responsibilities. Below is a brief overview of the sections included:
 
 - **01 - Introduction**: Overview of the TROY Housing CSC team, mission, and vision.
+- [**01 - Introduction**](handbook/01-Introduction.md): Overview of the TROY Housing CSC team, mission, and vision.
 - **02 - Inspections**: Guidelines for conducting room inspections and documenting findings.
 - **03 - Reporting Incidents**: Protocols for reporting incidents and necessary documentation.
 - **04 - Conflict Resolution**: Strategies for resolving conflicts among residents.
