@@ -1,5 +1,5 @@
-# TROY Housing CSC Handbook
-Welcome to the TROY Housing CSC Handbook. This document serves as a comprehensive guide for Community Standards Coordinators (CSCs) at TROY, outlining essential information, procedures, and resources to support your role.
+# TROY CSC Handbook - The Ultimate Guide
+Welcome to the TROY CSC Handbook. This document serves as a comprehensive guide for USC's Troy Customer Service Centre (CSC), outlining essential information, procedures, and resources to support your role.
 
 ## Purpose of the Handbook
 The handbook is designed to provide CSCs with the necessary tools and knowledge to effectively manage community standards, conduct inspections, handle incidents, and foster a positive living environment for residents.
@@ -11,6 +11,7 @@ The handbook is designed to provide CSCs with the necessary tools and knowledge 
 
 ## Key Sections
 - **Introduction**: Overview of the TROY Housing CSC team and its mission.
+- [**Introduction**](handbook/01-Introduction.md)
 - **Inspections**: Guidelines for conducting room inspections and documenting findings.
 - **Reporting Incidents**: Protocols for reporting various types of incidents.
 - **Conflict Resolution**: Strategies for resolving conflicts among residents.

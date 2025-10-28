@@ -1,5 +1,5 @@
-# TROY Housing CSC Handbook
-Welcome to the TROY Housing CSC Handbook site. This site contains official guidance, procedures, and templates for Community Standards Coordinators (CSCs).
+# TROY CSC Handbook
+Welcome to the TROY CSC Handbook site. This site contains official guidance, procedures, and templates for Community Standards Coordinators (CSCs).
 
 ## Quick links
 - [Handbook overview](handbook/00-README.md)

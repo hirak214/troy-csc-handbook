@@ -26,7 +26,7 @@ jobs:
           pip install mkdocs mkdocs-material
 
       - name: Build MkDocs site
-        run: mkdocs build -f troy-csc-handbook/mkdocs.yml -d site
+        run: mkdocs build -f mkdocs.yml -d site
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
