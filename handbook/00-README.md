@@ -1,14 +1,13 @@
 # README
-This file provides an overview of the TROY Housing CSC Handbook, its purpose, and guidance on how to navigate its contents.
+This file provides an overview of the TROY CSC Handbook, its purpose, and guidance on how to navigate its contents.
 
 ## Purpose of the Handbook
-The TROY Housing CSC Handbook serves as a comprehensive resource for Community Standards Coordinators (CSCs) at TROY. It outlines essential procedures, policies, and best practices to ensure a positive living environment for all residents.
+The TROY CSC Handbook serves as a comprehensive resource for Community Standards Coordinators (CSCs) at TROY. It outlines essential procedures, policies, and best practices to ensure a positive living environment for all residents.
 
 ## Navigating the Handbook
 The handbook is organized into sections that cover various aspects of the CSC role. Each section includes actionable steps, guidelines, and resources to assist CSCs in their responsibilities. Below is a brief overview of the sections included:
 
-- **01 - Introduction**: Overview of the TROY Housing CSC team, mission, and vision.
-- [**01 - Introduction**](handbook/01-Introduction.md): Overview of the TROY Housing CSC team, mission, and vision.
+- [**01 - Introduction**](01-Introduction.md): Overview of the TROY CSC team, mission, and vision.
 - **02 - Inspections**: Guidelines for conducting room inspections and documenting findings.
 - **03 - Reporting Incidents**: Protocols for reporting incidents and necessary documentation.
 - **04 - Conflict Resolution**: Strategies for resolving conflicts among residents.

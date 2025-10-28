@@ -1,21 +1,22 @@
 site_name: TROY Housing CSC Handbook
+docs_dir: handbook
 nav:
-  - Home: index.md
+  - Home: 00-README.md
   - Handbook:
-      - Overview: handbook/00-README.md
-      - Introduction: handbook/01-Introduction.md
-      - Inspections: handbook/02-Inspections.md
-      - Reporting Incidents: handbook/03-Reporting-Incidents.md
-      - Conflict Resolution: handbook/04-Conflict-Resolution.md
-      - Community Standards: handbook/05-Community-Standards.md
-      - Onboarding and Training: handbook/06-Onboarding-and-Training.md
-      - Roles and Responsibilities: handbook/07-Roles-and-Responsibilities.md
-      - Forms and Templates: handbook/08-Forms-and-Templates.md
-      - Policies and Procedures: handbook/09-Policies-and-Procedures.md
-      - Safety and Emergencies: handbook/10-Safety-and-Emergencies.md
-      - Communication and Notifications: handbook/11-Communication-and-Notifications.md
-      - Resources and Contacts: handbook/12-Resources-and-Contacts.md
-      - Glossary: handbook/GLOSSARY.md
+      - Overview: 00-README.md
+      - Introduction: 01-Introduction.md
+      - Inspections: 02-Inspections.md
+      - Reporting Incidents: 03-Reporting-Incidents.md
+      - Conflict Resolution: 04-Conflict-Resolution.md
+      - Community Standards: 05-Community-Standards.md
+      - Onboarding and Training: 06-Onboarding-and-Training.md
+      - Roles and Responsibilities: 07-Roles-and-Responsibilities.md
+      - Forms and Templates: 08-Forms-and-Templates.md
+      - Policies and Procedures: 09-Policies-and-Procedures.md
+      - Safety and Emergencies: 10-Safety-and-Emergencies.md
+      - Communication and Notifications: 11-Communication-and-Notifications.md
+      - Resources and Contacts: 12-Resources-and-Contacts.md
+      - Glossary: GLOSSARY.md
 theme:
   name: material
   features:
